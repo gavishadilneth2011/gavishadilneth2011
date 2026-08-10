@@ -1,4 +1,4 @@
-# <h1 align="center">⚡ Hey, I'm Gavisha!</h1>
+ <h1 align="center">⚡ Hey, I'm Gavisha!</h1>
 
 ### <p align="center"> 💻 Software Engineer in the making • 🎨 Graphic Designer • 🎬 Video Editor 
 
@@ -29,17 +29,17 @@ Currently learning, experimenting, and building my way toward becoming a **Softw
 └── 3D Design
 ```
 
----
 
-## <h1 align="center"> 🚀 My Mission </h1>
 
-** <p align="center">  Learn → Create → Build → Improve → Repeat.** </p>
+ <h1 align="center"> 🚀 My Mission </h1>
+
+ <p align="center">  Learn → Create → Build → Improve → Repeat.** </p>
 
 <p align="center"> I want to combine **technology and creativity** to create things that are useful, unique, and visually awesome. ⚡ </p>
 
----
 
-## <h1 align="center"> 🔥 Current Focus </h1>
+
+ <h1 align="center"> 🔥 Current Focus </h1>
 <p align="center"> 
 💻 Building my programming skills
 🌐 Creating websites
@@ -49,19 +49,17 @@ Currently learning, experimenting, and building my way toward becoming a **Softw
 🧊 Learning 3D with Blender
 🚀 Working toward my first serious projects
 </p>
----
 
-## <h1 align="center"> 📂 Projects </h1>
+<h1 align="center"> 📂 Projects </h1>
 <p align="center"> 
  🛠️ Loading...
 <p align="center"> 
 I'm currently learning and building.
 <p align="center"> 
 My project journey starts here. 🚀
-
----
 </p>
-## <h1 align="center"> 🎯 Future Goals </h1>
+
+<h1 align="center"> 🎯 Future Goals </h1>
 
 ```text
 [✓] Start coding
@@ -76,7 +74,7 @@ My project journey starts here. 🚀
 
 ---
 <p align="center"> 
-### ⚡ Code it. Design it. Create it.
+⚡ Code it. Design it. Create it.
 <p align="center"> 
 Thanks for stopping by! 👋
 <p align="center"> 
